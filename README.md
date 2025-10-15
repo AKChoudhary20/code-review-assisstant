@@ -1,3 +1,5 @@
+<img width="1217" height="836" alt="image" src="https://github.com/user-attachments/assets/e84e93ec-38a1-477d-a7de-95c743ff51a4" />
+
 # Code Review Assistant
 
 ## Overview
